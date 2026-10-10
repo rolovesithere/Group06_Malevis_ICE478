@@ -3,4 +3,5 @@
 # Track: Custom CNN + Attention Architecture
 # How to Run: 
 # Results: 
-<sub>This text will be noticeably smaller than standard body text.</sub>
+<small>This text will be slightly smaller than normal—perfect for a medium size.</small>
+
