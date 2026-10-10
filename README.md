@@ -1,7 +1,5 @@
-# Group: 06
-# Dataset: Malevis
-# Track: Custom CNN + Attention Architecture
-# How to Run: 
-# Results: 
-<small>This text will be slightly smaller than normal—perfect for a medium size.</small>
-
+# <small> Group: 06 <small>
+# <small> Dataset: Malevis <small>
+# <small> Track: Custom CNN + Attention Architecture <small>
+# <small> How to Run: <small>
+# <small> Results: <small>
