@@ -2,5 +2,5 @@
 # Dataset: Malevis
 # Track: Custom CNN + Attention Architecture
 # How to Run: 
-# Results:
-<sub><sup>This text will be noticeably smaller than standard body text.</sup></sub>
+# Results: 
+<sub>This text will be noticeably smaller than standard body text.</sub>
