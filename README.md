@@ -1,3 +1,5 @@
-# Group06_Malevis_ICE478
-
-Malevis dataset malware classification using a Custom CNN + Attention architecture with redundant byte-image mitigation.
+# **Group**: 06
+# **Dataset**: Malevis
+# **Track**: Custom CNN + Attention Architecture
+# **How to Run**: 
+# **Results**:
